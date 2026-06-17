@@ -63,20 +63,21 @@ Tracks operational efficiency:
 
 ---
 
-## Dashboard Screenshots
+# E-Commerce Analytics
 
-### Executive Analytics
+Interactive analytics project built using Power BI and the Olist E-Commerce dataset.
 
-![Executive Analytics](executive_analytics.png)
+## Executive Analytics
 
-### Customer Analytics
+![Executive Analytics](https://github.com/Akshit-Sharma349/E-Commerce-Analytics/raw/main/Executive_Analysis.png)
 
-![Customer Analytics](customer_analytics.png)
+## Customer Analytics
 
-### Operations Analytics
+![Customer Analytics](https://github.com/Akshit-Sharma349/E-Commerce-Analytics/raw/main/Customer_Analysis.png)
 
-![Operations Analytics](operations_analytics.png)
+## Operations Analytics
 
+![Operations Analytics](https://github.com/Akshit-Sharma349/E-Commerce-Analytics/raw/main/Operation_Analysis.png)
 ---
 
 ## Key Business Insights
